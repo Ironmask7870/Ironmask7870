@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there, I'm Pradyut Barik 👋
 
-<!--
-**Primeplayer7870/Primeplayer7870** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Who am I?
+* I'm a student with a strong interest in Data Science and Artificial Intelligence.
+* When I'm not studying or coding, I enjoy exploring mild Minecraft modding and keeping up with my favorite anime and manga series.
 
-Here are some ideas to get you started:
+## 🔭 What am I currently working on?
+* Learning **Web Designing** to build responsive and interactive projects.
+* Dabbling into **core CS** concepts to strengthen my foundational programming knowledge.
+* Experimenting extensively with **Generative AI** models and developer tools, including Google AI Studio and NotebookLM.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What tools do I use?
+* **Environments & Editors:** VSCodium, GitHub Codespaces, IntelliJ IDEA, Notepad++
+* **AI & Productivity:** Gemini, Perplexity Pro, Claude
+* **Content Creation:** Camtasia, Wondershare Filmora 
+
+## 📫 How to reach me?
+* **Email:** pradyutalt@gmail.com
+* **YouTube:** [The Iron Mask Gamer](https://www.youtube.com/@theironmaskgamer8420) *(Note: Not actively maintained)*

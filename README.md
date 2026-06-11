@@ -6,7 +6,7 @@
 
 ## 🔭 What am I currently working on?
 * Learning **Web Designing** to build responsive and interactive projects.
-* Dabbling into **core CS** concepts to strengthen my foundational programming knowledge.
+* Dabbling into **core CS** concepts to strengthen my foundational programming knowledge from [OSSU](https://cs.ossu.dev/)
 * Experimenting extensively with **Generative AI** models and developer tools, including Google AI Studio and NotebookLM.
 
 ## 🛠️ What tools do I use?

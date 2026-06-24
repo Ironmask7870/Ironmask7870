@@ -12,7 +12,7 @@
 ## 🛠️ What tools do I use?
 * **Environments & Editors:** VSCodium, GitHub Codespaces, IntelliJ IDEA, Notepad++
 * **AI & Productivity:** Gemini, Perplexity Pro, Claude
-* **Content Creation:** Camtasia, Wondershare Filmora 
+* **Content Creation:** Camtasia, Wondershare Filmora, Capcut, Flimchamp
 
 ## 📫 How to reach me?
 * **Email:** pradyutalt@gmail.com

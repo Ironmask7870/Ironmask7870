@@ -8,6 +8,7 @@
 * Learning **Web Designing** to build responsive and interactive projects.
 * Dabbling into **core CS** concepts to strengthen my foundational programming knowledge from [OSSU](https://cs.ossu.dev/)
 * Experimenting extensively with **Generative AI** models and developer tools, including Google AI Studio and NotebookLM.
+* Learning basic **Java** from scratch, to further learn **DSA**
 
 ## 🛠️ What tools do I use?
 * **Environments & Editors:** VSCodium, GitHub Codespaces, IntelliJ IDEA, Notepad++

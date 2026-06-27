@@ -18,3 +18,4 @@
 ## 📫 How to reach me?
 * **Email:** pradyutalt@gmail.com
 * **YouTube:** [The Iron Mask Gamer](https://www.youtube.com/@theironmaskgamer8420) *(Note: Not actively maintained)*
+* **Linkedin** [My Profile](https://www.linkedin.com/in/pradyut-barik-643917419/)
